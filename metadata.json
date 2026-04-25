@@ -1,0 +1,6 @@
+{
+  "name": "Sibalita - SPK Gizi Balita",
+  "description": "Sistem Pendukung Keputusan Penentuan Status Gizi Balita menggunakan metode Simple Additive Weighting (SAW) dengan backend Express.js dan PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
